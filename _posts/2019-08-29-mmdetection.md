@@ -101,7 +101,7 @@ Localization, Classification 을 순차적으로 해결
 
 
 
-![figure1](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/mmdetection/figure1.PNG)
+![figure1](/assets/img/post_img/mmdetection/figure1.PNG)
 
 
 
@@ -112,7 +112,7 @@ hooking mechanism을 가지고 있는 pipeline
 
 
 
-![figure2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/mmdetection/figure2.PNG)
+![figure2](/assets/img/post_img/mmdetection/figure2.PNG)
 
 
 
@@ -124,7 +124,7 @@ hooking mechanism을 가지고 있는 pipeline
 
 
 
-![figure3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/mmdetection/figure3.PNG)
+![figure3](/assets/img/post_img/mmdetection/figure3.PNG)
 
 
 

@@ -21,7 +21,7 @@ hsv = cv2.cvtColor(frame,cv2.COLOR_BGR2HSV)
 
 
 
-![hsv](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/object/hsv.JPG)
+![hsv](/assets/img/post_img/object/hsv.JPG)
 
 
 
@@ -101,7 +101,7 @@ cv2.circle(frame,center,radius,7)
 
 
 
-![circle](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/object/circle.JPG)
+![circle](/assets/img/post_img/object/circle.JPG)
 
 
 
@@ -139,7 +139,7 @@ track = deque(maxlen=64)
 
 
 
-![tracking](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/object/tracking.JPG)
+![tracking](/assets/img/post_img/object/tracking.JPG)
 
 
 

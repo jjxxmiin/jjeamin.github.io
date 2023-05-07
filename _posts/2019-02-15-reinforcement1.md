@@ -21,7 +21,7 @@ categories: reinforcement
 
 
 
-![example](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/reinforcement/example.JPG)
+![example](/assets/img/post_img/reinforcement/example.JPG)
 
 
 

@@ -160,7 +160,7 @@ Draw a graph of odds to probabilities, mapping the entire range of probabilities
 
 
 
-![1](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/interview/1.PNG)
+![1](/assets/img/post_img/interview/1.PNG)
 
 
 
@@ -739,7 +739,7 @@ The shorthand $$X ∼ Binomial(n, p)$$ indicates that the random variable X has 
 
 
 
-![2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/interview/2.PNG)
+![2](/assets/img/post_img/interview/2.PNG)
 
 
 

@@ -17,7 +17,7 @@ categories: reinforcement
 
 
 
-![net](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/reinforcement/net1.JPG)
+![net](/assets/img/post_img/reinforcement/net1.JPG)
 
 
 
@@ -29,7 +29,7 @@ network를 이용하자
 
 
 
-![algo](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/reinforcement/algo.JPG)
+![algo](/assets/img/post_img/reinforcement/algo.JPG)
 
 
 

@@ -16,7 +16,7 @@ math: true
 
 
 
-![det_figure1](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/det_figure1.PNG){: width="500" height="400"}{: .center}
+![det_figure1](/assets/img/post_img/EfficientDet/det_figure1.PNG){: width="500" height="400"}{: .center}
 
 
 
@@ -35,7 +35,7 @@ math: true
 
 
 
-![det_figure2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/det_figure2.PNG){: .center}
+![det_figure2](/assets/img/post_img/EfficientDet/det_figure2.PNG){: .center}
 
 
 
@@ -123,7 +123,7 @@ EfficientDet의 Network 구조와 Compound Scaling 알아보자
 
 
 
-![det_figure3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/det_figure3.PNG){: .center}
+![det_figure3](/assets/img/post_img/EfficientDet/det_figure3.PNG){: .center}
 
 
 
@@ -136,7 +136,7 @@ EfficientDet의 Network 구조와 Compound Scaling 알아보자
 
 
 
-![det_figure4](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/det_figure4.PNG){: .center}
+![det_figure4](/assets/img/post_img/EfficientDet/det_figure4.PNG){: .center}
 
 
 
@@ -178,7 +178,7 @@ $$R_{input} = 512 + \phi \cdot 128$$
 
 
 
-![det_benchmark1](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/det_benchmark1.PNG){: .center}
+![det_benchmark1](/assets/img/post_img/EfficientDet/det_benchmark1.PNG){: .center}
 
 
 
@@ -189,7 +189,7 @@ $$R_{input} = 512 + \phi \cdot 128$$
 
 
 
-![det_figure5](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/det_figure5.PNG){: .center}
+![det_figure5](/assets/img/post_img/EfficientDet/det_figure5.PNG){: .center}
 
 
 
@@ -197,11 +197,11 @@ $$R_{input} = 512 + \phi \cdot 128$$
 
 
 
-![det_figure6](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/det_figure6.PNG){: .center}
+![det_figure6](/assets/img/post_img/EfficientDet/det_figure6.PNG){: .center}
 
 
 ## Compound Scaling
 
 
 
-![det_figure7](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/det_figure7.PNG){: .center}
+![det_figure7](/assets/img/post_img/EfficientDet/det_figure7.PNG){: .center}

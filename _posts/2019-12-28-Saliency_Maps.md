@@ -59,7 +59,7 @@ backpropagation을 이용해서 **locally optimal $$I$$** 를 찾을 수 있다.
 
 
 
-![figure](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/saliency/figure.PNG){: .center}
+![figure](/assets/img/post_img/saliency/figure.PNG){: .center}
 
 
 
@@ -95,7 +95,7 @@ RGB image의 경우는 단일 class의 Saliency Maps를 얻기 위해서 모든 
 
 
 
-![figure1](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/saliency/figure1.PNG){: .center}
+![figure1](/assets/img/post_img/saliency/figure1.PNG){: .center}
 
 
 
@@ -107,7 +107,7 @@ colour segmentation을 사용하면 Saliency Maps이 object와 가장 차별적�
 
 
 
-![figure2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/saliency/figure2.PNG){: .center}
+![figure2](/assets/img/post_img/saliency/figure2.PNG){: .center}
 
 
 
@@ -121,7 +121,7 @@ colour segmentation을 사용하면 Saliency Maps이 object와 가장 차별적�
 
 
 
-![figure3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/saliency/figure3.PNG){: .center}
+![figure3](/assets/img/post_img/saliency/figure3.PNG){: .center}
 
 
 

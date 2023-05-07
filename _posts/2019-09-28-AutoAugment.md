@@ -59,7 +59,7 @@ image augmentation은 수동으로 설계되었고 데이터 셋 별로 최상�
 
 
 
-![figure1](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/autoaugment/figure1.PNG)
+![figure1](/assets/img/post_img/autoaugment/figure1.PNG)
 
 
 
@@ -68,7 +68,7 @@ image augmentation은 수동으로 설계되었고 데이터 셋 별로 최상�
 
 
 
-![nas](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/autoaugment/nas.PNG)
+![nas](/assets/img/post_img/autoaugment/nas.PNG)
 
 
 
@@ -84,7 +84,7 @@ In Proceedings of IEEE Conference on Computer Vision and Pattern Recognition, 20
 
 
 
-![nas2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/autoaugment/nas2.PNG)
+![nas2](/assets/img/post_img/autoaugment/nas2.PNG)
 
 
 
@@ -111,7 +111,7 @@ identity
 
 
 
-![nas3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/autoaugment/nas3.PNG)
+![nas3](/assets/img/post_img/autoaugment/nas3.PNG)
 
 
 
@@ -125,7 +125,7 @@ identity
 
 
 
-![nas3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/autoaugment/nas3.PNG)
+![nas3](/assets/img/post_img/autoaugment/nas3.PNG)
 
 
 
@@ -137,7 +137,7 @@ identity
 
 
 
-![controller](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/autoaugment/controller.PNG)
+![controller](/assets/img/post_img/autoaugment/controller.PNG)
 
 
 
@@ -149,7 +149,7 @@ identity
 
 
 
-![figure2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/autoaugment/figure2.PNG)
+![figure2](/assets/img/post_img/autoaugment/figure2.PNG)
 
 
 
@@ -211,7 +211,7 @@ ShearX/Y, TranslateX/Y, Rotate, AutoContrast, Invert, Equalize, Solarize, Poster
 
 
 
-![figure3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/autoaugment/figure3.PNG)
+![figure3](/assets/img/post_img/autoaugment/figure3.PNG)
 
 
 
@@ -220,7 +220,7 @@ ShearX/Y, TranslateX/Y, Rotate, AutoContrast, Invert, Equalize, Solarize, Poster
 
 
 
-![figure4](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/autoaugment/figure4.PNG)
+![figure4](/assets/img/post_img/autoaugment/figure4.PNG)
 
 
 
@@ -228,7 +228,7 @@ ShearX/Y, TranslateX/Y, Rotate, AutoContrast, Invert, Equalize, Solarize, Poster
 
 
 
-![figure5](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/autoaugment/figure5.PNG)
+![figure5](/assets/img/post_img/autoaugment/figure5.PNG)
 
 
 
@@ -236,7 +236,7 @@ ShearX/Y, TranslateX/Y, Rotate, AutoContrast, Invert, Equalize, Solarize, Poster
 
 
 
-![figure6](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/autoaugment/figure6.PNG)
+![figure6](/assets/img/post_img/autoaugment/figure6.PNG)
 
 
 

@@ -28,7 +28,7 @@ Diffusion은 생성 모델입니다. 기존에 알고 있던 생성 방법과는
 
 
 
-![1](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/diffusion/1.png)
+![1](/assets/img/post_img/diffusion/1.png)
 
 
 
@@ -42,7 +42,7 @@ Diffusion은 **확산**이라는 뜻을 가지고 있습니다. 이는 **흩어�
 
 
 
-![2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/diffusion/2.png)
+![2](/assets/img/post_img/diffusion/2.png)
 
 
 
@@ -50,7 +50,7 @@ Diffusion은 **확산**이라는 뜻을 가지고 있습니다. 이는 **흩어�
 
 
 
-![3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/diffusion/3.png)
+![3](/assets/img/post_img/diffusion/3.png)
 
 
 
@@ -305,7 +305,7 @@ Stable Diffusion을 이해하기 위해서는 먼저 Latent Diffusion을 알아�
 
 
 
-![4](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/diffusion/4.png)
+![4](/assets/img/post_img/diffusion/4.png)
 
 
 
@@ -319,7 +319,7 @@ Latent Diffusion 모델은 위와 같은 구조를 가지고 있습니다.
 
 
 
-![5](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/diffusion/5.png)
+![5](/assets/img/post_img/diffusion/5.png)
 
 
 
@@ -339,7 +339,7 @@ Latent Diffusion 모델은 위와 같은 구조를 가지고 있습니다.
 
 
 
-![7_2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/diffusion/7_2.png)
+![7_2](/assets/img/post_img/diffusion/7_2.png)
 
 
 
@@ -347,14 +347,14 @@ Dreambooth는 Imagen이 공개된 이후 발표된 논문입니다. 기존 Diffu
 
 
 
-![6](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/diffusion/6.png)
+![6](/assets/img/post_img/diffusion/6.png)
 
 
 
 
 
 
-![7](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/diffusion/7.png)
+![7](/assets/img/post_img/diffusion/7.png)
 
 
 
@@ -368,7 +368,7 @@ Dreambooth는 Imagen이 공개된 이후 발표된 논문입니다. 기존 Diffu
 
 
 
-![8](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/diffusion/8.png)
+![8](/assets/img/post_img/diffusion/8.png)
 
 
 

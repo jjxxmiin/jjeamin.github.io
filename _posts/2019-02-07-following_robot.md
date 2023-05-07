@@ -44,7 +44,7 @@ git clone https://github.com/jjeamin/Raspi_following_Robot.git
 
 
 
-![GPIO](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/human_following_robot/gpio.JPG)
+![GPIO](/assets/img/post_img/human_following_robot/gpio.JPG)
 
 
 
@@ -52,7 +52,7 @@ git clone https://github.com/jjeamin/Raspi_following_Robot.git
 
 
 
-![dc](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/human_following_robot/dc.JPG)
+![dc](/assets/img/post_img/human_following_robot/dc.JPG)
 
 
 

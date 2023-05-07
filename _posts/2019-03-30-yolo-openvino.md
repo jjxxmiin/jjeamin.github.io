@@ -64,7 +64,7 @@ python convert_weights_pb.py
 
 
 
-![summary](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/intel/yolo_summary.PNG)
+![summary](/assets/img/post_img/intel/yolo_summary.PNG)
 
 
 
@@ -221,7 +221,7 @@ print('inference time : ',end-start)
 
 
 
-![summary](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/intel/inference.PNG)
+![summary](/assets/img/post_img/intel/inference.PNG)
 
 
 

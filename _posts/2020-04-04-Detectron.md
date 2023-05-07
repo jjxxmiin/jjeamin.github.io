@@ -97,7 +97,7 @@ wget http://farm4.staticflickr.com/3775/9332963028_598bcb7aac_z.jpg
 
 
 
-![input](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/detectron/input.jpg)
+![input](/assets/img/post_img/detectron/input.jpg)
 
 
 
@@ -138,7 +138,7 @@ python setup.py build install
 
 
 
-![output](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/detectron/output.png)
+![output](/assets/img/post_img/detectron/output.png)
 
 
 

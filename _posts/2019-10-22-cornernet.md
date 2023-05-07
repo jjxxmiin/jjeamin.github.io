@@ -45,7 +45,7 @@ single convolutional network를 사용해서 `top-left 모서리에 대한 heatm
 
 
 
-![figure1](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/figure1.PNG)
+![figure1](/assets/img/post_img/cornernet/figure1.PNG)
 
 
 
@@ -55,7 +55,7 @@ CornerNet의 또 다른 새로운 구성요소는 Convolutional Network가 경�
 
 
 
-![figure2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/figure2.PNG)
+![figure2](/assets/img/post_img/cornernet/figure2.PNG)
 
 
 
@@ -66,7 +66,7 @@ object의 가장 위쪽 경계를 pixel 위치에서 가로 오른쪽으로 보�
 
 
 
-![figure3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/figure3.PNG)
+![figure3](/assets/img/post_img/cornernet/figure3.PNG)
 
 
 
@@ -88,7 +88,7 @@ backbone으로 `Hourglass network`를 사용한다. 두 개의 예측 모듈(top
 
 
 
-![figure4](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/figure4.PNG)
+![figure4](/assets/img/post_img/cornernet/figure4.PNG)
 
 
 
@@ -101,7 +101,7 @@ backbone으로 `Hourglass network`를 사용한다. 두 개의 예측 모듈(top
 
 
 
-![figure5](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/figure5.PNG)
+![figure5](/assets/img/post_img/cornernet/figure5.PNG)
 
 
 
@@ -109,7 +109,7 @@ backbone으로 `Hourglass network`를 사용한다. 두 개의 예측 모듈(top
 
 
 
-![formula](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/formula.PNG){: width="500" height="100"}
+![formula](/assets/img/post_img/cornernet/formula.PNG){: width="500" height="100"}
 
 
 
@@ -125,7 +125,7 @@ backbone으로 `Hourglass network`를 사용한다. 두 개의 예측 모듈(top
 
 
 
-![formula2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/formula2.PNG){: width="500" height="100"}
+![formula2](/assets/img/post_img/cornernet/formula2.PNG){: width="500" height="100"}
 
 
 
@@ -137,7 +137,7 @@ backbone으로 `Hourglass network`를 사용한다. 두 개의 예측 모듈(top
 
 
 
-![formula3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/formula3.PNG){: width="500" height="100"}
+![formula3](/assets/img/post_img/cornernet/formula3.PNG){: width="500" height="100"}
 
 
 
@@ -148,7 +148,7 @@ backbone으로 `Hourglass network`를 사용한다. 두 개의 예측 모듈(top
 
 
 
-![formula4](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/formula4.PNG){: width="500" height="200"}
+![formula4](/assets/img/post_img/cornernet/formula4.PNG){: width="500" height="200"}
 
 
 
@@ -161,7 +161,7 @@ backbone으로 `Hourglass network`를 사용한다. 두 개의 예측 모듈(top
 
 
 
-![figure6](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/figure6.PNG){: width="1000" height="300"}
+![figure6](/assets/img/post_img/cornernet/figure6.PNG){: width="1000" height="300"}
 
 
 
@@ -169,7 +169,7 @@ corner의 존재에 대한 local visual evidence가 없다. 즉, corner를 학�
 
 
 
-![formula5](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/formula5.PNG){: width="500" height="200"}
+![formula5](/assets/img/post_img/cornernet/formula5.PNG){: width="500" height="200"}
 
 
 
@@ -184,7 +184,7 @@ $$H * W$$ feature map을 사용하기 때문에
 
 
 
-![figure7](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/figure7.PNG){: width="1000" height="300"}
+![figure7](/assets/img/post_img/cornernet/figure7.PNG){: width="1000" height="300"}
 
 
 
@@ -192,7 +192,7 @@ $$H * W$$ feature map을 사용하기 때문에
 
 
 
-![hourglass](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/hourglass.PNG)
+![hourglass](/assets/img/post_img/cornernet/hourglass.PNG)
 
 
 
@@ -247,21 +247,21 @@ $$\alpha,\beta = 0.1 , \gamma = 1$$
 
 
 
-![benchmark](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/benchmark.PNG)
+![benchmark](/assets/img/post_img/cornernet/benchmark.PNG)
 
 
 
 
 
 
-![benchmark3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/benchmark3.PNG)
+![benchmark3](/assets/img/post_img/cornernet/benchmark3.PNG)
 
 
 
 
 
 
-![benchmark4](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/benchmark4.PNG)
+![benchmark4](/assets/img/post_img/cornernet/benchmark4.PNG)
 
 
 
@@ -269,7 +269,7 @@ $$\alpha,\beta = 0.1 , \gamma = 1$$
 
 
 
-![benchmark2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/cornernet/benchmark2.PNG)
+![benchmark2](/assets/img/post_img/cornernet/benchmark2.PNG)
 
 
 

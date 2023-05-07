@@ -49,7 +49,7 @@ math: true
 
 
 
-![그림1](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/centernet/그림1.PNG)
+![그림1](/assets/img/post_img/centernet/그림1.PNG)
 
 
 
@@ -86,7 +86,7 @@ object detection을 위해서 keypoint 추정방법을 사용하는 것이 처�
 
 
 
-![그림2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/centernet/그림2.PNG)
+![그림2](/assets/img/post_img/centernet/그림2.PNG)
 
 
 
@@ -116,7 +116,7 @@ object detection을 위해서 keypoint 추정방법을 사용하는 것이 처�
 
 
 
-![식1](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/centernet/식1.PNG)
+![식1](/assets/img/post_img/centernet/식1.PNG)
 
 
 
@@ -125,7 +125,7 @@ gaussian kernel을 사용하여 히트맵 $$\hat{Y} \in [0, 1]^{(\frac{W}{R} * \
 
 
 
-![식2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/centernet/식2.PNG)
+![식2](/assets/img/post_img/centernet/식2.PNG)
 
 
 
@@ -138,7 +138,7 @@ gaussian kernel을 사용하여 히트맵 $$\hat{Y} \in [0, 1]^{(\frac{W}{R} * \
 
 
 
-![식3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/centernet/식3.PNG)
+![식3](/assets/img/post_img/centernet/식3.PNG)
 
 
 
@@ -156,7 +156,7 @@ gaussian kernel을 사용하여 히트맵 $$\hat{Y} \in [0, 1]^{(\frac{W}{R} * \
 
 
 
-![식4](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/centernet/식4.PNG)
+![식4](/assets/img/post_img/centernet/식4.PNG)
 
 
 
@@ -164,7 +164,7 @@ scale을 표준화하지 않고 원본 픽셀 좌표를 직접 사용한다. 대
 
 
 
-![식5](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/centernet/식5.PNG)
+![식5](/assets/img/post_img/centernet/식5.PNG)
 
 
 
@@ -178,7 +178,7 @@ keypoint $$\hat{Y}$$, offset $$\hat{O}$$, 크기 $$\hat{S}$$를 예측한다. �
 
 
 
-![그림3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/centernet/그림3.PNG)
+![그림3](/assets/img/post_img/centernet/그림3.PNG)
 
 
 
@@ -256,7 +256,7 @@ vanilla L1 loss를 Smooth L1에 비교한다. L1보다 Smooth L1이 좋다.
 
 
 
-![loss](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/centernet/loss.PNG)
+![loss](/assets/img/post_img/centernet/loss.PNG)
 
 
 
@@ -264,7 +264,7 @@ vanilla L1 loss를 Smooth L1에 비교한다. L1보다 Smooth L1이 좋다.
 
 
 
-![loss_w](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/centernet/loss_w.PNG)
+![loss_w](/assets/img/post_img/centernet/loss_w.PNG)
 
 
 
@@ -286,7 +286,7 @@ bounding box AP와 유사하지만 bounding box IOU를 object의 keypoint 유사
 
 
 
-![그림4](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/centernet/그림4.PNG)
+![그림4](/assets/img/post_img/centernet/그림4.PNG)
 
 
 
@@ -301,7 +301,7 @@ object에 대한 새로운 표현을 포인트로 제시한다. **object의 cent
 
 
 
-![model](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/centernet/model.PNG)
+![model](/assets/img/post_img/centernet/model.PNG)
 
 
 
@@ -336,7 +336,7 @@ backbone이란 등뼈라는 뜻을 가지고 있다. 등뼈는 뇌와 몸의 각
 
 
 
-![그림5](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/centernet/그림5.PNG)
+![그림5](/assets/img/post_img/centernet/그림5.PNG)
 
 
 
@@ -358,7 +358,7 @@ layer를 집계하여서 output을 추출하는 네트워크다.
 
 
 
-![그림6](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/centernet/그림6.PNG)
+![그림6](/assets/img/post_img/centernet/그림6.PNG)
 
 
 

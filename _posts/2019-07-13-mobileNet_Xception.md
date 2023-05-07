@@ -20,7 +20,7 @@ Xception은 Inception에 기초를 두고 있고 sparse하게 네트워크의 �
 
 
 
-![simple](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/xception/simple.PNG)
+![simple](/assets/img/post_img/xception/simple.PNG)
 
 
 
@@ -28,7 +28,7 @@ Xception은 Inception에 기초를 두고 있고 sparse하게 네트워크의 �
 
 
 
-![simple2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/xception/simple2.PNG)
+![simple2](/assets/img/post_img/xception/simple2.PNG)
 
 
 
@@ -42,7 +42,7 @@ Xception은 Inception에 기초를 두고 있고 sparse하게 네트워크의 �
 
 
 
-![dsc](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/xception/dsc.PNG)
+![dsc](/assets/img/post_img/xception/dsc.PNG)
 
 
 
@@ -62,7 +62,7 @@ resnet에서 사용되는 지름길을 만들어주는 기술이라고 생각하
 
 
 
-![model](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/xception/model.PNG)
+![model](/assets/img/post_img/xception/model.PNG)
 
 
 
@@ -102,7 +102,7 @@ key : `depthwise separable convolution`
 
 
 
-![cost3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/xception/cost3.PNG)
+![cost3](/assets/img/post_img/xception/cost3.PNG)
 
 
 
@@ -112,7 +112,7 @@ key : `depthwise separable convolution`
 
 
 
-![cost](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/xception/cost.PNG)
+![cost](/assets/img/post_img/xception/cost.PNG)
 
 
 
@@ -120,7 +120,7 @@ key : `depthwise separable convolution`
 
 
 
-![cost2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/xception/cost2.PNG)
+![cost2](/assets/img/post_img/xception/cost2.PNG)
 
 
 

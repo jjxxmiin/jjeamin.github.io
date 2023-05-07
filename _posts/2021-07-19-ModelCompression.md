@@ -75,7 +75,7 @@ Deep Learning with neural networks has been the dominant methodology of training
 
 
 
-![figure0](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig0.jpg)
+![figure0](/assets/img/post_img/model_compression/fig0.jpg)
 
 
 
@@ -87,7 +87,7 @@ Deep Learning with neural networks has been the dominant methodology of training
 
 
 
-![figure1](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig1.jpg)
+![figure1](/assets/img/post_img/model_compression/fig1.jpg)
 
 
 
@@ -114,7 +114,7 @@ Deep Learning with neural networks has been the dominant methodology of training
 
 
 
-![figure2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig2.jpg)
+![figure2](/assets/img/post_img/model_compression/fig2.jpg)
 
 
 
@@ -141,7 +141,7 @@ OBD는 2차 미분($$\frac{\partial^2 L}{\partial w^2_i}$$)을 사용하여 sali
 
 
 
-![figure3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig3.jpg)
+![figure3](/assets/img/post_img/model_compression/fig3.jpg)
 
 
 
@@ -165,7 +165,7 @@ structured pruning은 실제 0으로 처리하지 않고 제거가능하기에 �
 
 
 
-![figure5](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig5.jpg)
+![figure5](/assets/img/post_img/model_compression/fig5.jpg)
 
 
 
@@ -191,7 +191,7 @@ $$dequantize(x_q) = \hat{x} = s(x_q - z)$$
 
 
 
-![figure6](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig6.jpg)
+![figure6](/assets/img/post_img/model_compression/fig6.jpg)
 
 
 
@@ -221,7 +221,7 @@ latency를 개선하려면 고정 소수점 표현에서 수학 연산을 해야
 
 
 
-![figure7](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig7.JPG)
+![figure7](/assets/img/post_img/model_compression/fig7.JPG)
 
 
 
@@ -296,7 +296,7 @@ $$  = \lambda_1 \cdot CrossEntropy(Y, Y^{(s)}; \theta) + \lambda_2 \cdot CrossEn
 
 
 
-![figure8](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig8.JPG)
+![figure8](/assets/img/post_img/model_compression/fig8.JPG)
 
 
 
@@ -338,7 +338,7 @@ labeled 데이터가 많을수록 모델의 성능은 좋아지지만 labeling �
 
 
 
-![figure9](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig9.JPG)
+![figure9](/assets/img/post_img/model_compression/fig9.JPG)
 
 
 
@@ -360,7 +360,7 @@ Supervied Learning은 데이터에 크게 의존합니다. 위에 Distillation�
 
 
 
-![figure10](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig10.jpg)
+![figure10](/assets/img/post_img/model_compression/fig10.jpg)
 
 
 
@@ -388,7 +388,7 @@ $$\lambda^{*} \approx argmin_{\lambda \in \left \{ \lambda^{(1)}, \lambda^{(2)},
 
 
 
-![figure12](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig12.jpg)
+![figure12](/assets/img/post_img/model_compression/fig12.jpg)
 
 
 
@@ -418,7 +418,7 @@ $$\lambda^{*} \approx argmin_{\lambda \in \left \{ \lambda^{(1)}, \lambda^{(2)},
 
 
 
-![figure13](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig13.jpg)
+![figure13](/assets/img/post_img/model_compression/fig13.jpg)
 
 
 
@@ -443,7 +443,7 @@ Convolutional Layer는 filter를 학습하기 때문에 위에 같은 문제점�
 
 
 
-![figure11](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig11.jpg)
+![figure11](/assets/img/post_img/model_compression/fig11.jpg)
 
 
 
@@ -470,7 +470,7 @@ $$(1 × 1 × input_channels × output_channels) + (s_x × s_y × output_channels
 
 
 
-![figure14](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig14.jpg)
+![figure14](/assets/img/post_img/model_compression/fig14.jpg)
 
 
 
@@ -528,7 +528,7 @@ Graphics Processing Units(GPUs)는 computer graphics를 가속화하기 위해�
 - 2021년도에 AlexNet 모델의 등장으로 딥러닝에서 GPU의 사용은 표준이 되었습니다.
 
 
-![figure16](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig16.jpg)
+![figure16](/assets/img/post_img/model_compression/fig16.jpg)
 
 
 
@@ -536,7 +536,7 @@ Tensor Core는 표준 MAC 연산을 최적화 합니다. 여기서 B와 C는 fp1
 
 
 
-![figure17](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig17.jpg)
+![figure17](/assets/img/post_img/model_compression/fig17.jpg)
 
 
 
@@ -544,7 +544,7 @@ Tensor Core는 표준 MAC 연산을 최적화 합니다. 여기서 B와 C는 fp1
 
 
 
-![figure18](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig18.jpg)
+![figure18](/assets/img/post_img/model_compression/fig18.jpg)
 
 
 
@@ -571,7 +571,7 @@ lightweight 배포를 위해서 설계된 **저전력 system on a module(SoM)인
 
 
 
-![figure15](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig15.jpg)
+![figure15](/assets/img/post_img/model_compression/fig15.jpg)
 
 
 
@@ -584,7 +584,7 @@ lightweight 배포를 위해서 설계된 **저전력 system on a module(SoM)인
 
 
 
-![figure19](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig19.jpg)
+![figure19](/assets/img/post_img/model_compression/fig19.jpg)
 
 
 
@@ -599,14 +599,14 @@ lightweight 배포를 위해서 설계된 **저전력 system on a module(SoM)인
 2. efficiency techniques의 다양한 조합으로 `Shrink-and-Improve`와 `Grow-Improve-and-Shrink`의 trade-off를 입증합니다.
 
 
-![figure20](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig20.jpg)
+![figure20](/assets/img/post_img/model_compression/fig20.jpg)
 
 
 
 
 
 
-![figure21](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig21.jpg)
+![figure21](/assets/img/post_img/model_compression/fig21.jpg)
 
 
 
@@ -614,14 +614,14 @@ lightweight 배포를 위해서 설계된 **저전력 system on a module(SoM)인
 
 
 
-![figure22](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig22.jpg)
+![figure22](/assets/img/post_img/model_compression/fig22.jpg)
 
 
 
 
 
 
-![figure23](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/model_compression/fig23.jpg)
+![figure23](/assets/img/post_img/model_compression/fig23.jpg)
 
 
 

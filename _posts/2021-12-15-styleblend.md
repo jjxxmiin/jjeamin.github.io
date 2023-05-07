@@ -55,14 +55,14 @@ python train.py --outdir=./training-runs --data=./anime.zip --cfg=paper512 --mir
 
 
 
-![blend](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/stylegan/transfer.PNG)
+![blend](/assets/img/post_img/stylegan/transfer.PNG)
 
 
 ### Blending FFHQ - Metface
 
 
 
-![blend](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/stylegan/blend.PNG)
+![blend](/assets/img/post_img/stylegan/blend.PNG)
 
 
 
@@ -128,7 +128,7 @@ Result !!
 
 
 
-![result](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/stylegan/result.PNG)
+![result](/assets/img/post_img/stylegan/result.PNG)
 
 
 

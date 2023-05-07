@@ -221,7 +221,7 @@ $$\frac{\partial J(\theta)}{\partial \theta_k} \approx \frac{J(\theta + \epsilon
 
 
 
-![monte](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/reinforcement/monte.PNG)
+![monte](/assets/img/post_img/reinforcement/monte.PNG)
 
 
 
@@ -243,7 +243,7 @@ output이 바로 보상으로 추출되는 것 말고 Q function을 사용해서
 
 
 
-![monte2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/reinforcement/monte2.PNG)
+![monte2](/assets/img/post_img/reinforcement/monte2.PNG)
 
 
 
@@ -258,7 +258,7 @@ monte carlo policy gradient를 REINFORCE 알고리즘이라고 부른다.
 
 
 
-![monte3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/reinforcement/monte3.PNG)
+![monte3](/assets/img/post_img/reinforcement/monte3.PNG)
 
 
 

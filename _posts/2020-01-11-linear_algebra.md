@@ -246,7 +246,7 @@ $$
 
 
 
-![fig](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/linear/fig.PNG)
+![fig](/assets/img/post_img/linear/fig.PNG)
 
 
 - [https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
@@ -281,7 +281,7 @@ $$Ax = \lambda x$$
 
 
 
-![fig1](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/linear/fig1.PNG){: .center}
+![fig1](/assets/img/post_img/linear/fig1.PNG){: .center}
 
 
 
@@ -351,7 +351,7 @@ $$
 
 
 
-![fig2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/linear/fig2.PNG){: .center}
+![fig2](/assets/img/post_img/linear/fig2.PNG){: .center}
 
 
 

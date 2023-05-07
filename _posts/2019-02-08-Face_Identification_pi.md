@@ -238,7 +238,7 @@ cv2.destroyAllWindows()
 - 인식 후 초당 1프레임 정도 나옵니다.
 
 
-![obama](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/faceid/obama.JPG)
+![obama](/assets/img/post_img/faceid/obama.JPG)
 
 
 

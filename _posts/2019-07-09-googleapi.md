@@ -30,7 +30,7 @@ Google Assistant API를 사용하는 방법에 대해서 리뷰 할 것이다.
 
 
 
-![device](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/google/device.PNG)
+![device](/assets/img/post_img/google/device.PNG)
 
 
 

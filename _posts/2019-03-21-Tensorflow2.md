@@ -216,4 +216,4 @@ print('ground-truth : ',test_labels[i])
 
 
 
-![result](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/tensorflow/class.PNG)
+![result](/assets/img/post_img/tensorflow/class.PNG)

@@ -22,7 +22,7 @@ EfficientNet을 보기전에 EfficientNet의 핵심 concept을 빠르게 보고 
 
 
 
-![net_figure1](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/net_figure1.PNG){: width="500" height="400"}{: .center}
+![net_figure1](/assets/img/post_img/EfficientDet/net_figure1.PNG){: width="500" height="400"}{: .center}
 
 
 
@@ -32,7 +32,7 @@ EfficientNet은 Convolution Neural Network를 속도나 정확도 측면에서 n
 
 
 
-![net_figure2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/net_figure2.PNG){: .center}
+![net_figure2](/assets/img/post_img/EfficientDet/net_figure2.PNG){: .center}
 
 
 
@@ -46,7 +46,7 @@ EfficientNet은 Convolution Neural Network를 속도나 정확도 측면에서 n
 
 
 
-![net_formula1](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/net_formula1.PNG){: .center}
+![net_formula1](/assets/img/post_img/EfficientDet/net_formula1.PNG){: .center}
 
 
 
@@ -62,7 +62,7 @@ ResNet으로 예를들면 ResNet은 5stage가 있고 각 stage는 downsampling�
 
 
 
-![net_formula2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/net_formula2.PNG){: .center}
+![net_formula2](/assets/img/post_img/EfficientDet/net_formula2.PNG){: .center}
 
 
 
@@ -71,7 +71,7 @@ ResNet으로 예를들면 ResNet은 5stage가 있고 각 stage는 downsampling�
 
 
 
-![net_figure3](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/net_figure3.PNG){: .center}
+![net_figure3](/assets/img/post_img/EfficientDet/net_figure3.PNG){: .center}
 
 
 
@@ -81,7 +81,7 @@ ResNet으로 예를들면 ResNet은 5stage가 있고 각 stage는 downsampling�
 
 
 
-![net_figure4](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/net_figure4.PNG){: .center}
+![net_figure4](/assets/img/post_img/EfficientDet/net_figure4.PNG){: .center}
 
 
 
@@ -105,7 +105,7 @@ $$\phi$$는 직접 결정하는 값
 
 
 
-![net_figure5](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/net_figure5.PNG){: .center}
+![net_figure5](/assets/img/post_img/EfficientDet/net_figure5.PNG){: .center}
 
 
 
@@ -118,7 +118,7 @@ MBConv는 MobileNetv2에서 나온 inverted bottleneck 구조다.
 
 
 
-![benchmark1](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/net_benchmark1.PNG){: .center}
+![benchmark1](/assets/img/post_img/EfficientDet/net_benchmark1.PNG){: .center}
 
 
 
@@ -126,7 +126,7 @@ ImageNet에서의 performance다. 파라미터수가 기존 모델에 비해 작
 
 
 
-![benchmark2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/net_benchmark2.PNG){: .center}
+![benchmark2](/assets/img/post_img/EfficientDet/net_benchmark2.PNG){: .center}
 
 
 
@@ -136,7 +136,7 @@ ImageNet에서의 performance다. 파라미터수가 기존 모델에 비해 작
 
 
 
-![benchmark2](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/EfficientDet/net_cam.PNG){: .center}
+![benchmark2](/assets/img/post_img/EfficientDet/net_cam.PNG){: .center}
 
 
 
