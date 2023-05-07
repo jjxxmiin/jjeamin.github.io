@@ -51,7 +51,7 @@ order: 2
 
 
 
-![vton](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/about/cloth.png)
+![vton](/assets/img/post_img/about/cloth.png)
 
 
 
@@ -72,7 +72,7 @@ order: 2
 
 
 
-![arcane](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/about/arcane.png)
+![arcane](/assets/img/post_img/about/arcane.png)
 
 
 
@@ -89,7 +89,7 @@ order: 2
 
 
 
-![darknet](https://github.com/jjeamin/jjeamin.github.io/raw/master/_posts/post_img/about/darknet.PNG)
+![darknet](/assets/img/post_img/about/darknet.PNG)
 
 
 
