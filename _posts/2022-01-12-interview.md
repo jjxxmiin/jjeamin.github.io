@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Deep Learning Interviews 정리"
 summary: "Deep Learning Interviews 정리"
 date:   2022-01-12 09:10 -0400

@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Tensorflow 1.13.1 에서 JAVA, C#에 포팅할 모델을 만드는 방법"
 summary: "Tensorflow 1.13.1 에서 JAVA, C#에 포팅할 모델을 만드는 방법"
 date:   2021-07-01 09:10 -0400

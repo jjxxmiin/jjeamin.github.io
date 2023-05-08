@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "LightGBM 그리고 XGBoost"
 summary: "LightGBM 그리고 XGBoost"
 date:   2021-06-29 09:10 -0400

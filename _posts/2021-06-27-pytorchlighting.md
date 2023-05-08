@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Pytorch lightning 사용하기"
 summary: "Pytorch lightning 사용하기"
 date:   2021-06-27 09:10 -0400

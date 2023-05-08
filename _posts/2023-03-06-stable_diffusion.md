@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Diffusion"
 summary: "Long time no see"
 date:   2023-03-06 16:00 -0400

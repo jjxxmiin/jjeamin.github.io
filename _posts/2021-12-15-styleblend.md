@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "StyleBland + StyleTransfer"
 summary: "StyleBland + StyleTransfer"
 date:   2021-12-15 09:10 -0400
