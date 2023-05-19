@@ -5,64 +5,35 @@ order: 2
 
 # Smart Mirror for Beauty
 
-## For Photo Booth Shop
-
 **Hair Color Simulation**
 
----
 
-## For Semi-Permanent Shop
 
-**Face Segmentation**
+![hair_bleaching](/assets/img/post_img/about/hair_bleaching.png)
 
-**Lip Color Simulation**
 
-**Eyebrow Simulation**
-
-**Eyeliner Simulation**
-
-**Skin Simulation**
-
-**Nail Simulation**
-
-**SMP Simulation**
-
----
-
-## For Hair Shop
-
-**Hair Segmentation**
 
 **Hair Style Simulation**
 
-**Hair Color Simulation**
-
-**Hair Bleaching Simulation**
-
-**Bald Simulation**
-
-**Background Segmentation**
-
----
-
-## For Fashion Shop
-
-**Cloth Virtual Try On**
 
 
-
-![vton](/assets/img/post_img/about/cloth.png)
+![bald](/assets/img/post_img/about/bald.png)
 
 
 
 ---
 
-## Public Data Construction Business for Sleep Stage Classification
+## Image-based Sleep Stage Classification
   + [Demo Page](https://sleepai.kr/)
-  + [Github](https://github.com/ai-for-sleep/sleep_stage_classification_for_image)
-  + [Dataset](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=210)
+  + [AI-hub](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=210)
   + Development of Sleep Stage Classification Model
   + Development of Flask RestFul API Server
+
+
+
+  ![bald](/assets/img/post_img/about/sleep.png)
+
+
 
 ---
 
