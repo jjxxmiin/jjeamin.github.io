@@ -5,6 +5,20 @@ order: 3
 
 <!--  -->
 
+<details><summary>Simple Copy-Paste </summary>
+
+<p>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MQrw7GtbBlPVQq" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; width: 100%;" allowfullscreen> </iframe>
+
+<a class="btn btn-light btn-block" href="https://jjeamin.github.io/assets/slide/2023-07-01-Simple_Copy_Paste.pptx"> Download </a>
+
+</p>
+
+</details>
+
+<!--  -->
+
 <details><summary>Rethinking Bisenet </summary>
 
 <p>
