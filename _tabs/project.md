@@ -64,8 +64,7 @@ order: 2
 
 
 
-- [Demo Page v2](https://darknet-2.gitbook.io/darknet-book-2/)
-- [Demo Page v1](https://jjeamin.github.io/darknet_book/)
+- [Demo Page](https://www.opensource-book.kro.kr/)
 - [Github](https://github.com/jjeamin/darknet_book_public)
 - Requirements
   - GitBook

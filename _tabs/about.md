@@ -10,7 +10,7 @@ order: 1
 
 | NAME | URL |
 |:----------|:----------:|
-| E-mail | jmjeong@mirrorroid.co.kr |
+| E-mail | common.jaemin@gmail.com |
 | CV[KR] | [PDF](https://jjeamin.github.io/assets/cv/CV_korean.pdf) *no-updated* |
 | CV[EN] | [PDF](https://jjeamin.github.io/assets/cv/CV_english.pdf) *no-updated* |
 | GitHub | [https://github.com/jjeamin](https://github.com/jjeamin) |
@@ -142,10 +142,11 @@ stage classification
   + Chief Researcher
   + Research and Development for Beauty Smart Mirror (Face, Hair etc.)
 
-- PhD Degree (2023-03 ~ )
+- PhD Degree - Program of Visiting Research Student (2023-03 ~ )
+  + University of Ottawa
   + Research of Model Compression
   + Research of Image-based Sleep Staging
-  + [Mirrorroid](https://www.mirrorroid.co.kr/) (2022-03 ~ )
+  + [Mirrorroid](https://www.mirrorroid.co.kr/) (2023-03 ~ )
     + Outsourcing
     + Research and Development for Beauty Smart Mirror (Face, Hair etc.)
 
