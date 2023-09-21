@@ -46,9 +46,9 @@ Especially...
 
 **Journal**
 
-- FCL-Net: Filter Combination Learning Network for on-devices
-  + **Jaemin Jeong**, Jiho Cho, Jeong-Gun Lee
-  + we are preparing to submit.
+- Standardized Image-Based Polysomnography Database and Deep Learning Algorithm for Sleep Stage Classification
+  + **Jaemin Jeong**, Wonhyuck Yoon, Jeong-Gun Lee, Dongyoung Kim, Yunhee Woo, Dong-Kyu Kim, Hyun-Woo Shin
+  + Accepted in the Journal of Oxford SLEEP (SCI), 2023
 
 - Filter Combination Learning for CNN model compression
   + **Jaemin Jeong**, Jiho Cho, Jeong-Gun Lee
