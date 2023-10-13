@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-> 보통 제가 읽으려고 글을 쓰는데 혹시 부족한게 있다면 댓글이나 메일을 부탁드립니다. 개선하겠습니다.
-
 - `Name` : `Jaemin Jeong`
 
 | NAME | URL |
@@ -111,7 +109,7 @@ stage classification
 
 ------
 
-# Work Experiences
+# Experiences
 
 - [FrontU](https://frontu2.modoo.at/) (2018-07 ~ 2018-08)
   + Development for Smart Toy
@@ -128,9 +126,13 @@ stage classification
   + Google Assistant
 
 - Master's Degree (2019-09 ~ 2021-03)
+  + Hallym University
+  + Department of Computer Engineering
   + Research of Model Compression
 
 - PhD Degree (2021-03 ~ 2022-03)
+  + Hallym University
+  + Department of Computer Engineering
   + Research of Model Compression
   + Research of Image-based Sleep Staging  
   + [Mirrorroid](https://www.mirrorroid.co.kr/) (2021-01 ~ 2022-03)
@@ -139,11 +141,12 @@ stage classification
 
 - [Mirrorroid](https://www.mirrorroid.co.kr/) (2022-03 ~ 2023-03)
   + Full Time JOB
-  + Chief Researcher
+  + Senior Researcher
   + Research and Development for Beauty Smart Mirror (Face, Hair etc.)
 
 - PhD Degree - Program of Visiting Research Student (2023-03 ~ )
   + University of Ottawa
+  + Department of Computer Engineering
   + Research of Model Compression
   + Research of Image-based Sleep Staging
   + [Mirrorroid](https://www.mirrorroid.co.kr/) (2023-03 ~ )
