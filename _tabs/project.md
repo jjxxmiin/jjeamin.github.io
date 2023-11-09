@@ -3,7 +3,15 @@ title: project
 order: 2
 ---
 
-# Smart Mirror for Beauty
+# AI for Face Beauty
+
+**Face Swap**
+
+
+
+![face_swap](/assets/img/post_img/about/face_swap.png)
+
+
 
 **Hair Color Simulation**
 
@@ -13,7 +21,7 @@ order: 2
 
 
 
-**Hair Style Simulation**
+**Bald Simulation**
 
 
 
@@ -23,23 +31,24 @@ order: 2
 
 ---
 
-## Image-based Sleep Stage Classification
-  + [Demo Page](https://sleepai.kr/)
-  + [AI-hub](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=210)
-  + Development of Sleep Stage Classification Model
-  + Development of Flask RestFul API Server
+## AI for Image-based Sleep Stage Classification
 
 
 
-  ![bald](/assets/img/post_img/about/sleep.png)
+![sleep](/assets/img/post_img/about/sleep.png)
 
 
+
+- [Demo Page](https://sleepai.kr/)
+- [AI-hub](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=210)
+- Development of Sleep Stage Classification Model
+- Development of Flask RestFul API Server
 
 ---
 
-## *Toy Projects*
+## Toy Projects
 
-### *Arcane Style Trnasfer*
+### Arcane Style Trnasfer
 
 
 
@@ -56,11 +65,11 @@ order: 2
   - StyleGAN2
   - Pix2PixHD
 
-### *DarkNet Book*
+### DarkNet Book
 
 
 
-![darknet](/assets/img/post_img/about/darknet.PNG)
+![darknet](/assets/img/post_img/about/darknet.png)
 
 
 
@@ -69,22 +78,26 @@ order: 2
 - Requirements
   - GitBook
 
-### *People Counting YOLO*
+### Deep Learning Visualization Tools
 
-- [Github](https://github.com/jjeamin/People_counting_yolo)
-- Requirements
-  - YOLO
-  - Raspberry pi
-  - Neural Compute Stick 2
 
-### *Deep Learning Visualization Tools*
+
+![learner](/assets/img/post_img/about/cam.png)
+
+
 
 - [Github](https://github.com/jjeamin/DeepVisual_QTorch)
 - Requirements
   - CAM
   - PyQt5
 
-### *Face Learner*
+### Face Learner
+
+
+
+![learner](/assets/img/post_img/about/learner.png)
+
+
 
 - [Client](https://github.com/jjeamin/Learner)
 - [Server](https://github.com/jjeamin/Learner_server)
@@ -95,20 +108,28 @@ order: 2
   - Client: Android
   - Server: Flask
 
-### *외워보카*
+### People Counting YOLO
+
+- [Github](https://github.com/jjeamin/People_counting_yolo)
+- Requirements
+  - YOLO
+  - Raspberry pi
+  - Neural Compute Stick 2
+
+### 외워보카
 
 - [Github](https://github.com/remindvoca/server)
 - Requirements
   - NLP
   - Server: Django
 
-### *Stock DayBot*
+### Stock DayBot
 
 - [bitmex](https://github.com/jjeamin/bitmex_trader)
 - Requirements
   - Reinforcement Learning
 
-### *Coding Scoring System*
+### Coding Scoring System
 
 - [Github](https://github.com/ByoungJoonIm/Capstone_Design)
 - Requirements
