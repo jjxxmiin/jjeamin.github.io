@@ -3,7 +3,9 @@ title: project
 order: 2
 ---
 
-# AI for Face Beauty
+# Project
+
+## AI for Face Beauty
 
 **Face Swap**
 
@@ -29,8 +31,6 @@ order: 2
 
 
 
----
-
 ## AI for Image-based Sleep Stage Classification
 
 
@@ -46,9 +46,9 @@ order: 2
 
 ---
 
-## Toy Projects
+# Toy Projects
 
-### Arcane Style Trnasfer
+## Arcane Style Transfer
 
 
 
@@ -65,11 +65,11 @@ order: 2
   - StyleGAN2
   - Pix2PixHD
 
-### DarkNet Book
+## DarkNet Book
 
 
 
-![darknet](/assets/img/post_img/about/darknet.png)
+![darknet](/assets/img/post_img/about/darknet.PNG)
 
 
 
@@ -78,7 +78,7 @@ order: 2
 - Requirements
   - GitBook
 
-### Deep Learning Visualization Tools
+## Deep Learning Visualization Tools
 
 
 
@@ -91,7 +91,7 @@ order: 2
   - CAM
   - PyQt5
 
-### Face Learner
+## Face Learner
 
 
 
@@ -108,7 +108,7 @@ order: 2
   - Client: Android
   - Server: Flask
 
-### People Counting YOLO
+## People Counting YOLO
 
 - [Github](https://github.com/jjeamin/People_counting_yolo)
 - Requirements
@@ -116,20 +116,20 @@ order: 2
   - Raspberry pi
   - Neural Compute Stick 2
 
-### 외워보카
+## 외워보카
 
 - [Github](https://github.com/remindvoca/server)
 - Requirements
   - NLP
   - Server: Django
 
-### Stock DayBot
+## Stock DayBot
 
 - [bitmex](https://github.com/jjeamin/bitmex_trader)
 - Requirements
   - Reinforcement Learning
 
-### Coding Scoring System
+## Coding Scoring System
 
 - [Github](https://github.com/ByoungJoonIm/Capstone_Design)
 - Requirements
@@ -139,12 +139,12 @@ order: 2
 
 # Paper Code Implementations
 
-### MCCNN
+## MCCNN
 
 - [[Paper](https://www.semanticscholar.org/paper/Single-Image-Crowd-Counting-via-Multi-Column-Neural-Zhang-Zhou/2dc3b3eff8ded8914c8b536d05ee713ff0cdf3cd) / [MY Code](https://github.com/jjeamin/MCCNN) / [MY Post](https://jjeamin.github.io/paper/2019/03/08/MCNN/)]
 
-### Photo Sketch
+## Photo Sketch
 - [[Paper](https://arxiv.org/abs/1901.00542) / [MY Code](https://github.com/jjeamin/PhotoSketch_Pytorch)]
 
-### Network Trimming
+## Network Trimming
 - [[Paper](https://arxiv.org/abs/1607.03250) / [MY Code](https://github.com/jjeamin/Network_Trimming_Pytorch)]
