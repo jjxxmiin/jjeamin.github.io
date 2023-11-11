@@ -69,7 +69,7 @@ order: 2
 
 
 
-![darknet](/assets/img/post_img/about/darknet.png)
+![darknet](/assets/img/post_img/about/darknet.PNG)
 
 
 
