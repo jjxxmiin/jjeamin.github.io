@@ -44,7 +44,6 @@ order: 2
 - Development of Sleep Stage Classification Model
 - Development of Flask RestFul API Server
 
----
 
 # Toy Projects
 
@@ -135,8 +134,6 @@ order: 2
 - Requirements
   - Docker
 
----
-
 # Paper Code Implementations
 
 ## MCCNN
@@ -144,7 +141,9 @@ order: 2
 - [[Paper](https://www.semanticscholar.org/paper/Single-Image-Crowd-Counting-via-Multi-Column-Neural-Zhang-Zhou/2dc3b3eff8ded8914c8b536d05ee713ff0cdf3cd) / [MY Code](https://github.com/jjeamin/MCCNN) / [MY Post](https://jjeamin.github.io/paper/2019/03/08/MCNN/)]
 
 ## Photo Sketch
+
 - [[Paper](https://arxiv.org/abs/1901.00542) / [MY Code](https://github.com/jjeamin/PhotoSketch_Pytorch)]
 
 ## Network Trimming
+
 - [[Paper](https://arxiv.org/abs/1607.03250) / [MY Code](https://github.com/jjeamin/Network_Trimming_Pytorch)]
